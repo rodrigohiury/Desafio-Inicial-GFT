@@ -1,3 +1,13 @@
+/**
+        Este programa calcula a média ponderada de duas notas e retorna o resultado
+        A primeira nota tem peso 3,5 e a segunda tem peso 7,5.
+        Feito para o Desafio 1 do Bootcamp GFT Start #4 Java da DIO
+        @author Rodrigo Araújo
+        @version 1.0.0
+        @since Release 1.0.0
+        
+        */
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
